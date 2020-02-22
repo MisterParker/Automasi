@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994114900527",
+    "firebase_url": "https://automasi-7955c.firebaseio.com",
+    "project_id": "automasi-7955c",
+    "storage_bucket": "automasi-7955c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994114900527:android:08e5691c01505d09c26cda",
+        "android_client_info": {
+          "package_name": "com.example.automasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994114900527-vk8vjfsu5adcb3bjqtmsnin7gosnsu8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.automasi",
+            "certificate_hash": "88a272d39cc913a0c2a9232354adfaf3a3c60af1"
+          }
+        },
+        {
+          "client_id": "994114900527-aafvo3vl8pmef2m1l0g7fogbvbtbd248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLXmbfv3byscr2uQzjESFPwW0CmO3osWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994114900527-aafvo3vl8pmef2m1l0g7fogbvbtbd248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
