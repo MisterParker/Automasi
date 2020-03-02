@@ -182,27 +182,27 @@
                         >
 
                         <RelativeLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="match_parent">
+                            android:layout_width="139dp"
+                            android:layout_height="150dp"
+
+                            >
 
 
                             <ImageView
                                 android:id="@+id/gimage"
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:src="@drawable/geyser"
                                 android:layout_centerHorizontal="true"
                                 android:layout_marginTop="30dp"
-                                />
+                                android:src="@drawable/camera" />
 
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Geyser"
-                                android:layout_centerHorizontal="true"
-                                android:layout_marginTop="20dp"
                                 android:layout_below="@id/gimage"
-                                />
+                                android:layout_centerHorizontal="true"
+                                android:layout_marginTop="5dp"
+                                android:text="Live Data" />
 
 
                         </RelativeLayout>
@@ -247,7 +247,7 @@
                                 android:layout_height="80dp"
                                 android:src="@drawable/tub"
                                 android:layout_centerHorizontal="true"
-                                android:layout_marginTop="30dp"
+                                android:layout_marginTop="5dp"
                                 />
 
                             <TextView
@@ -318,7 +318,7 @@
                                 android:layout_height="80dp"
                                 android:src="@drawable/house"
                                 android:layout_centerHorizontal="true"
-                                android:layout_marginTop="30dp"
+                                android:layout_marginTop="5dp"
                                 />
 
                             <TextView
