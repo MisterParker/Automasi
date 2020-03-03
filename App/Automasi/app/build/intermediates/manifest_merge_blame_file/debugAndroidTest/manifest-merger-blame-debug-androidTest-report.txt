@@ -3,37 +3,37 @@
 3    package="com.example.automasi.test" >
 4
 5    <uses-sdk
-5-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:5:5-74
+5-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:5:5-74
 6        android:minSdkVersion="24"
-6-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:5:15-41
+6-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:5:42-71
+7-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:5:42-71
 8
 9    <instrumentation
-9-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:11:5-15:70
+9-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:11:5-15:70
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:11:22-76
+10-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:11:22-76
 11        android:functionalTest="false"
-11-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:14:22-52
+11-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:14:22-52
 12        android:handleProfiling="false"
-12-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:13:22-53
+12-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:13:22-53
 13        android:label="Tests for com.example.automasi"
-13-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:15:22-68
+13-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:15:22-68
 14        android:targetPackage="com.example.automasi" />
-14-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:12:22-66
+14-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:12:22-66
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c45ebba9758b673bec79c1eef5c5ae7e\core-1.2.0\AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c45ebba9758b673bec79c1eef5c5ae7e\core-1.2.0\AndroidManifest.xml:24:22-69
 17
 18    <application
-18-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:7:5-9:19
+18-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:7:5-9:19
 19        android:debuggable="true"
-19-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:7:18-43
+19-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:7:18-43
 20        android:extractNativeLibs="false" >
 21        <uses-library android:name="android.test.runner" />
-21-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:8:9-60
-21-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5884484258509922330.xml:8:23-57
+21-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:8:9-60
+21-->D:\Work\Gauri\App\Automasi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7044454218529132656.xml:8:23-57
 22
 23        <activity
 23-->[androidx.test:core:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c45ebba9758b673bec79c1eef5c5ae7e\core-1.2.0\AndroidManifest.xml:27:9-33:20

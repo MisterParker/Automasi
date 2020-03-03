@@ -171,10 +171,10 @@ public class MainActivity extends AppCompatActivity {
         Settings.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-//                Intent i=new Intent(MainActivity.this,SettingActivity.class);
-                Toast.makeText(getBaseContext(),"Check FIre",Toast.LENGTH_SHORT).show();
-//                startActivity(i);
-                Toast.makeText(getBaseContext(),"Check FIre",Toast.LENGTH_SHORT).show();
+                Intent i=new Intent(MainActivity.this,SettingActivity.class);
+//                Toast.makeText(getBaseContext(),"Check FIre",Toast.LENGTH_SHORT).show();
+                startActivity(i);
+//                Toast.makeText(getBaseContext(),"Check FIre",Toast.LENGTH_SHORT).show();
             }
         });
 
